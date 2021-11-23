@@ -1,0 +1,8 @@
+[package]
+name = "lsystem"
+version = "0.1.0"
+authors = ["Eric Nowac <enowac@gmail.com>"]
+edition = "2018"
+publish = false
+
+[dependencies]
